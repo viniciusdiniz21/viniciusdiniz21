@@ -15,5 +15,3 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
-
-  ![Snake animation](https://github.com/viniciusdiniz21/viniciusdiniz21/blob/output/github-contribution-grid-snake.svg)
